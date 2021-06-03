@@ -1,0 +1,11 @@
+{
+    "name": "issue-pdf-lib-merged-pdf-in-page-link-bug",
+    "private": true,
+    "author": "lillallol",
+    "dependencies": {
+        "pdf-lib": "^1.16.0"
+    },
+    "devDependencies": {
+        "eslint": "^7.27.0"
+    }
+}
